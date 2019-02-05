@@ -1,0 +1,16 @@
+C:\Users\user3\source\repos\2113\2113\bin\Debug\2113.exe.config
+C:\Users\user3\source\repos\2113\2113\bin\Debug\2113.exe
+C:\Users\user3\source\repos\2113\2113\bin\Debug\2113.pdb
+C:\Users\user3\source\repos\2113\2113\obj\Debug\2113.csprojAssemblyReference.cache
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.AdminList.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.Authform.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.ChangeAdminPass.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.ChangePrice.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.ChangeUserPass.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.Orderlist.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.Regform.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\_2113.Properties.Resources.resources
+C:\Users\user3\source\repos\2113\2113\obj\Debug\2113.csproj.GenerateResource.cache
+C:\Users\user3\source\repos\2113\2113\obj\Debug\2113.csproj.CoreCompileInputs.cache
+C:\Users\user3\source\repos\2113\2113\obj\Debug\2113.exe
+C:\Users\user3\source\repos\2113\2113\obj\Debug\2113.pdb
